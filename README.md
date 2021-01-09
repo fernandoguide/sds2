@@ -1,4 +1,4 @@
 # sds2
 
 
-# https://guide-sds2.netlify.app/orders
+# https://guide-sds2.netlify.app
